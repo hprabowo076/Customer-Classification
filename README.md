@@ -2,6 +2,9 @@
 Classification Project on Telemarketing Effectiveness in Banking Institutions
 Haryo Prabowo
 
+Presentation can be found [here](https://github.com/hprabowo076/Customer-Classification/blob/main/Telemarketing%20Effectiveness%20for%20Banking%20Institutions.pdf)
+Original Python Notebook can be found [here](https://colab.research.google.com/github/hprabowo076/Customer-Classification/blob/main/Telemarketing%20Effectiveness%20on%20Converting%20Bank's%20Client%20into%20a%20Term%20Deposit%20Subscriber.ipynb)
+
 # Introduction
 
 This is a dataset related to the direct marketing campaigns of a Portuguese banking institution. Source: https://www.kaggle.com/prakharrathi25/banking-dataset-marketing-targets
