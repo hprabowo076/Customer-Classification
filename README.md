@@ -1,5 +1,5 @@
 # Customer-Classification
-Classification Project on Telemarketing Effectiveness in Banking Institutions
+Classification Project on Telemarketing Effectiveness in Banking Institutions using Machine Learning Models
 Haryo Prabowo
 
 Presentation can be found [here](https://github.com/hprabowo076/Customer-Classification/blob/main/Telemarketing%20Effectiveness%20for%20Banking%20Institutions.pdf)
